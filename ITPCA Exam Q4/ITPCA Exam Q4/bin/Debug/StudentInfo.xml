@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Student>
+  <Product>
+    <Product_id>1 </Product_id>
+    <Product_name>Bob </Product_name>
+    <Product_price>Eng </Product_price>
+  </Product>
+  <Product>
+    <Product_id>2 </Product_id>
+    <Product_name>Jeff </Product_name>
+    <Product_price>IT </Product_price>
+  </Product>
+  <Product>
+    <Product_id>3 </Product_id>
+    <Product_name>Caren </Product_name>
+    <Product_price>IT </Product_price>
+  </Product>
+  <Product>
+    <Product_id>4 </Product_id>
+    <Product_name>Jill </Product_name>
+    <Product_price>IT </Product_price>
+  </Product>
+</Student>

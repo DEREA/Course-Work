@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITPCA Exam Q1", "ITPCA Exam Q1\ITPCA Exam Q1.csproj", "{0724EB63-4035-46C7-B5F3-D18DFEDC5877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0724EB63-4035-46C7-B5F3-D18DFEDC5877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0724EB63-4035-46C7-B5F3-D18DFEDC5877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0724EB63-4035-46C7-B5F3-D18DFEDC5877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0724EB63-4035-46C7-B5F3-D18DFEDC5877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFCF9776-5B85-45C0-AF23-98FC3210F695}
+	EndGlobalSection
+EndGlobal
