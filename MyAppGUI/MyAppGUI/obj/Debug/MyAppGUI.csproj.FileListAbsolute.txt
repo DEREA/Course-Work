@@ -1,0 +1,10 @@
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\bin\Debug\MyAppGUI.exe.config
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\bin\Debug\MyAppGUI.exe
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\bin\Debug\MyAppGUI.pdb
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\obj\Debug\MyAppGUI.csprojAssemblyReference.cache
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\obj\Debug\MyAppGUI.Form1.resources
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\obj\Debug\MyAppGUI.Properties.Resources.resources
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\obj\Debug\MyAppGUI.csproj.GenerateResource.cache
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\obj\Debug\MyAppGUI.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\obj\Debug\MyAppGUI.exe
+C:\Users\k254l\source\repos\MyAppGUI\MyAppGUI\obj\Debug\MyAppGUI.pdb
