@@ -1,0 +1,67 @@
+.topnav
+{
+
+float:right;
+padding:25px;
+size: 250%;
+text-decoration:none;
+background: #33475b;
+font-size:30px;
+width:97%;
+overflow: auto;
+}
+
+.topnav a:hover
+{
+color:#869fc4;
+}
+
+.topnav a
+{
+color:white;
+}
+
+.logdiv {
+    padding: 40px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 600px;
+    height: 400px;
+    border: solid;
+}
+
+.btn {
+    background-color: #869fc4;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
+
+
+
+p {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.tHead {
+    font-weight: bold;
+    font-size: 40Px;
+}
+
+.f1 {
+    padding: 250px;
+    float: left;
+    border: solid;
+    height: 306px;
+}
+
+.f2 {
+    padding: 250px;
+    float: right;
+    border: solid;
+}

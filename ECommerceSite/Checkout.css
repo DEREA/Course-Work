@@ -1,0 +1,24 @@
+.topnav
+{
+
+float:right;
+background-color:#33475b;
+color: #33475b;
+padding:25px;
+size: 250%;
+text-decoration:none;
+background: #33475b;
+font-size:30px;
+width:97%;
+overflow: auto;
+}
+
+.topnav a:hover
+{
+color:#869fc4;
+}
+
+.topnav a
+{
+color:white;
+}
