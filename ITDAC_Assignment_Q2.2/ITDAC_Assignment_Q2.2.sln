@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITDAC_Assignment_Q2.2", "ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2.csproj", "{4A11D024-EB7A-45DD-AE91-FAEB005471A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A11D024-EB7A-45DD-AE91-FAEB005471A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A11D024-EB7A-45DD-AE91-FAEB005471A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A11D024-EB7A-45DD-AE91-FAEB005471A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A11D024-EB7A-45DD-AE91-FAEB005471A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D08568A-A71F-4D03-BFC5-D8782B50CC9A}
+	EndGlobalSection
+EndGlobal

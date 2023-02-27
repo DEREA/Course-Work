@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\bin\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.exe
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\bin\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.deps.json
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\bin\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.runtimeconfig.json
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\bin\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\bin\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.dll
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\bin\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.pdb
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\obj\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\obj\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\obj\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.AssemblyInfo.cs
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\obj\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\obj\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.dll
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\obj\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.pdb
+C:\Users\k254l\source\repos\ITDAC_Assignment_Q2.2\ITDAC_Assignment_Q2.2\obj\Debug\netcoreapp3.1\ITDAC_Assignment_Q2.2.genruntimeconfig.cache

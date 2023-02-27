@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\bin\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.exe
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\bin\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.deps.json
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\bin\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.runtimeconfig.json
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\bin\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\bin\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.dll
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\bin\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.pdb
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\obj\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\obj\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\obj\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.AssemblyInfo.cs
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\obj\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\obj\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.dll
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\obj\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.pdb
+C:\Users\k254l\source\repos\ITDCA_Assignment_Q2.4\ITDCA_Assignment_Q2.4\obj\Debug\netcoreapp3.1\ITDCA_Assignment_Q2.4.genruntimeconfig.cache
