@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\bin\Debug\netcoreapp3.1\PreTestClassQ2.exe
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\bin\Debug\netcoreapp3.1\PreTestClassQ2.deps.json
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\bin\Debug\netcoreapp3.1\PreTestClassQ2.runtimeconfig.json
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\bin\Debug\netcoreapp3.1\PreTestClassQ2.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\bin\Debug\netcoreapp3.1\PreTestClassQ2.dll
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\bin\Debug\netcoreapp3.1\PreTestClassQ2.pdb
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\obj\Debug\netcoreapp3.1\PreTestClassQ2.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\obj\Debug\netcoreapp3.1\PreTestClassQ2.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\obj\Debug\netcoreapp3.1\PreTestClassQ2.AssemblyInfo.cs
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\obj\Debug\netcoreapp3.1\PreTestClassQ2.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\obj\Debug\netcoreapp3.1\PreTestClassQ2.dll
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\obj\Debug\netcoreapp3.1\PreTestClassQ2.pdb
+C:\Users\k254l\source\repos\PreTestClassQ2\PreTestClassQ2\obj\Debug\netcoreapp3.1\PreTestClassQ2.genruntimeconfig.cache

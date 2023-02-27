@@ -1,0 +1,10 @@
+C:\Users\k254l\source\repos\PreTest\PreTest\bin\Debug\PreTest.exe.config
+C:\Users\k254l\source\repos\PreTest\PreTest\bin\Debug\PreTest.exe
+C:\Users\k254l\source\repos\PreTest\PreTest\bin\Debug\PreTest.pdb
+C:\Users\k254l\source\repos\PreTest\PreTest\obj\Debug\PreTest.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\PreTest\PreTest\obj\Debug\PreTest.Properties.Resources.resources
+C:\Users\k254l\source\repos\PreTest\PreTest\obj\Debug\PreTest.csproj.GenerateResource.cache
+C:\Users\k254l\source\repos\PreTest\PreTest\obj\Debug\PreTest.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\PreTest\PreTest\obj\Debug\PreTest.exe
+C:\Users\k254l\source\repos\PreTest\PreTest\obj\Debug\PreTest.pdb
+C:\Users\k254l\source\repos\PreTest\PreTest\obj\Debug\PreTest.Form1.resources
