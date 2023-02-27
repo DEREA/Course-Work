@@ -1,0 +1,12 @@
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.dll
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csprojAssemblyReference.cache
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.cache
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CopyComplete
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+C:\Users\k254l\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
