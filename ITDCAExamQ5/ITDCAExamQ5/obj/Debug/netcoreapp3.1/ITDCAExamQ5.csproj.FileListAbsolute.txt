@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\bin\Debug\netcoreapp3.1\ITDCAExamQ5.exe
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\bin\Debug\netcoreapp3.1\ITDCAExamQ5.deps.json
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\bin\Debug\netcoreapp3.1\ITDCAExamQ5.runtimeconfig.json
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\bin\Debug\netcoreapp3.1\ITDCAExamQ5.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\bin\Debug\netcoreapp3.1\ITDCAExamQ5.dll
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\bin\Debug\netcoreapp3.1\ITDCAExamQ5.pdb
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\obj\Debug\netcoreapp3.1\ITDCAExamQ5.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\obj\Debug\netcoreapp3.1\ITDCAExamQ5.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\obj\Debug\netcoreapp3.1\ITDCAExamQ5.AssemblyInfo.cs
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\obj\Debug\netcoreapp3.1\ITDCAExamQ5.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\obj\Debug\netcoreapp3.1\ITDCAExamQ5.dll
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\obj\Debug\netcoreapp3.1\ITDCAExamQ5.pdb
+C:\Users\k254l\source\repos\ITDCAExamQ5\ITDCAExamQ5\obj\Debug\netcoreapp3.1\ITDCAExamQ5.genruntimeconfig.cache
