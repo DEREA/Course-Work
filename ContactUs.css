@@ -1,0 +1,24 @@
+a:link {
+    color: #412845;
+}
+
+a:visited {
+    color: #311236;
+}
+
+a:hover {
+    color: #eca1a6;
+}
+div {
+    color: #3e4444;
+    padding: 30px;
+}
+
+body {
+    background-color: #8b8b8c;
+}
+
+Phone{
+width: 50%;
+height: auto;
+}

@@ -1,0 +1,56 @@
+
+/*
+info-form{
+
+background-color: navy blue;
+color: navy blue;
+}
+*/
+body {
+    background-color: #8b8b8c;
+    color: #3e4444;
+}
+/*
+head {
+    background-color: blue;
+    color: blue;
+}
+*/
+legend {
+    background-color: #eca1a6;
+    color: #3d3d3d;
+}
+
+fieldset {
+   
+    border-style: solid;
+    border-color: #e3e3e3;
+    border-width 4px;
+}
+
+Subbutton {
+    border-color: #e3e3e3;
+    padding: 20px;
+    border-radius:10px;
+}
+
+a:link {
+    color: #412845;
+}
+
+a:visited {
+    color: #311236;
+}
+
+a:hover {
+    color: #eca1a6;
+}
+
+.error {
+    display: none;
+    color: Red;
+}
+
+.invalid + .error {
+    display: block;
+}
