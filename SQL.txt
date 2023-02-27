@@ -1,0 +1,54 @@
+drop database sys;
+create database sys;
+use sys;
+
+
+
+
+create table Subjects(
+
+SubID int auto_increment,
+SubName varchar(255) not null,
+SubGrade int not null,
+
+
+primary key (SubID)
+);
+
+
+create table Student(
+
+StID int auto_increment,
+StName varchar(255) not null,
+StSurname varchar(255) not null,
+StGrade int not null,
+StSubName varchar(255) not null references Subjects(SubName),
+
+primary key(StID)
+
+);
+
+
+
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+
+FIRST NORMAL FORM (1NF)
+First normal form (1NF) sets the fundamental rules for an organized database:
+
+Eliminate duplicative columns from the same table.
+Create separate tables for each group of related data and identify each row with a unique column or set of columns (the primary key).
+------------------------------------------------------------
+SECOND NORMAL FORM (2NF)
+Second normal form (2NF) further addresses the concept of removing duplicative data:
+
+Meet all the requirements of the first normal form.
+Remove subsets of data that apply to multiple rows of a table and place them in separate tables.
+Create relationships between these new tables and their predecessors through the use of foreign keys.
+-------------------------------------------------------------
+THIRD NORMAL FORM (3NF)
+Third normal form (3NF) goes one significant step further:
+
+Meet all the requirements of the second normal form.
+Remove columns that are not dependent upon the primary key.
