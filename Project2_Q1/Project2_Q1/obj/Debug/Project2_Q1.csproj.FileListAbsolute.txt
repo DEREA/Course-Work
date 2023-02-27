@@ -1,0 +1,7 @@
+C:\Users\k254l\source\repos\Project2_Q1\Project2_Q1\bin\Debug\Project2_Q1.exe.config
+C:\Users\k254l\source\repos\Project2_Q1\Project2_Q1\bin\Debug\Project2_Q1.exe
+C:\Users\k254l\source\repos\Project2_Q1\Project2_Q1\bin\Debug\Project2_Q1.pdb
+C:\Users\k254l\source\repos\Project2_Q1\Project2_Q1\obj\Debug\Project2_Q1.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\Project2_Q1\Project2_Q1\obj\Debug\Project2_Q1.exe
+C:\Users\k254l\source\repos\Project2_Q1\Project2_Q1\obj\Debug\Project2_Q1.pdb
+C:\Users\k254l\source\repos\Project2_Q1\Project2_Q1\obj\Debug\Project2_Q1.csproj.AssemblyReference.cache
