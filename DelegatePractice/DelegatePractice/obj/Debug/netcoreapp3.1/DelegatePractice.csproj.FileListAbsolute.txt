@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.exe
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.deps.json
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.json
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.dll
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.pdb
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfo.cs
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.dll
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.pdb
+C:\Users\k254l\source\repos\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\obj\Debug\netcoreapp3.1\DictionaryAndIPClass.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\obj\Debug\netcoreapp3.1\DictionaryAndIPClass.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\obj\Debug\netcoreapp3.1\DictionaryAndIPClass.AssemblyInfo.cs
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\obj\Debug\netcoreapp3.1\DictionaryAndIPClass.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\bin\Debug\netcoreapp3.1\DictionaryAndIPClass.exe
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\bin\Debug\netcoreapp3.1\DictionaryAndIPClass.deps.json
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\bin\Debug\netcoreapp3.1\DictionaryAndIPClass.runtimeconfig.json
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\bin\Debug\netcoreapp3.1\DictionaryAndIPClass.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\bin\Debug\netcoreapp3.1\DictionaryAndIPClass.dll
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\bin\Debug\netcoreapp3.1\DictionaryAndIPClass.pdb
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\obj\Debug\netcoreapp3.1\DictionaryAndIPClass.dll
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\obj\Debug\netcoreapp3.1\DictionaryAndIPClass.pdb
+C:\Users\k254l\source\repos\DictionaryAndIPClass\DictionaryAndIPClass\obj\Debug\netcoreapp3.1\DictionaryAndIPClass.genruntimeconfig.cache
