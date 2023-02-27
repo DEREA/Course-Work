@@ -1,0 +1,7 @@
+C:\Users\k254l\source\repos\TestingMinSpanningTree\TestingMinSpanningTree\bin\Debug\TestingMinSpanningTree.exe.config
+C:\Users\k254l\source\repos\TestingMinSpanningTree\TestingMinSpanningTree\bin\Debug\TestingMinSpanningTree.exe
+C:\Users\k254l\source\repos\TestingMinSpanningTree\TestingMinSpanningTree\bin\Debug\TestingMinSpanningTree.pdb
+C:\Users\k254l\source\repos\TestingMinSpanningTree\TestingMinSpanningTree\obj\Debug\TestingMinSpanningTree.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\TestingMinSpanningTree\TestingMinSpanningTree\obj\Debug\TestingMinSpanningTree.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\TestingMinSpanningTree\TestingMinSpanningTree\obj\Debug\TestingMinSpanningTree.exe
+C:\Users\k254l\source\repos\TestingMinSpanningTree\TestingMinSpanningTree\obj\Debug\TestingMinSpanningTree.pdb

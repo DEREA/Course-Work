@@ -1,0 +1,7 @@
+C:\Users\k254l\source\repos\ThreadTesting\ThreadTesting\bin\Debug\ThreadTesting.exe.config
+C:\Users\k254l\source\repos\ThreadTesting\ThreadTesting\bin\Debug\ThreadTesting.exe
+C:\Users\k254l\source\repos\ThreadTesting\ThreadTesting\bin\Debug\ThreadTesting.pdb
+C:\Users\k254l\source\repos\ThreadTesting\ThreadTesting\obj\Debug\ThreadTesting.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\ThreadTesting\ThreadTesting\obj\Debug\ThreadTesting.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\ThreadTesting\ThreadTesting\obj\Debug\ThreadTesting.exe
+C:\Users\k254l\source\repos\ThreadTesting\ThreadTesting\obj\Debug\ThreadTesting.pdb
