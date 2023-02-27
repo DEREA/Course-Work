@@ -1,0 +1,7 @@
+C:\Users\k254l\source\repos\OnlineAssessment_Q3\OnlineAssessment_Q3\obj\Debug\OnlineAssessment_Q3.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\OnlineAssessment_Q3\OnlineAssessment_Q3\obj\Debug\OnlineAssessment_Q3.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\OnlineAssessment_Q3\OnlineAssessment_Q3\bin\Debug\OnlineAssessment_Q3.exe.config
+C:\Users\k254l\source\repos\OnlineAssessment_Q3\OnlineAssessment_Q3\bin\Debug\OnlineAssessment_Q3.exe
+C:\Users\k254l\source\repos\OnlineAssessment_Q3\OnlineAssessment_Q3\bin\Debug\OnlineAssessment_Q3.pdb
+C:\Users\k254l\source\repos\OnlineAssessment_Q3\OnlineAssessment_Q3\obj\Debug\OnlineAssessment_Q3.exe
+C:\Users\k254l\source\repos\OnlineAssessment_Q3\OnlineAssessment_Q3\obj\Debug\OnlineAssessment_Q3.pdb
