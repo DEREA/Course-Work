@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.exe
+C:\Users\k254l\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.deps.json
+C:\Users\k254l\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.json
+C:\Users\k254l\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.dll
+C:\Users\k254l\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.pdb
+C:\Users\k254l\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfo.cs
+C:\Users\k254l\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.dll
+C:\Users\k254l\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.pdb
+C:\Users\k254l\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.genruntimeconfig.cache
