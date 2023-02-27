@@ -1,0 +1,7 @@
+C:\Users\k254l\source\repos\Assignment 1.1a\Assignment 1.1a\obj\Debug\Assignment 1.1a.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\Assignment 1.1a\Assignment 1.1a\obj\Debug\Assignment 1.1a.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\Assignment 1.1a\Assignment 1.1a\bin\Debug\Assignment 1.1a.exe.config
+C:\Users\k254l\source\repos\Assignment 1.1a\Assignment 1.1a\bin\Debug\Assignment 1.1a.exe
+C:\Users\k254l\source\repos\Assignment 1.1a\Assignment 1.1a\bin\Debug\Assignment 1.1a.pdb
+C:\Users\k254l\source\repos\Assignment 1.1a\Assignment 1.1a\obj\Debug\Assignment 1.1a.exe
+C:\Users\k254l\source\repos\Assignment 1.1a\Assignment 1.1a\obj\Debug\Assignment 1.1a.pdb
