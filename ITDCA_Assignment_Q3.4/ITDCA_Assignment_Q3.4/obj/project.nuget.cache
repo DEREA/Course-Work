@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBnqHSZkYW10Jb4hodrr54JF98dfz20HbDfg93/yUp5D2q0RJt4GtPidufdjUAJggHBugMISVEeYlqairvCdPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\k254l\\source\\repos\\ITDCA_Assignment_Q3.4\\ITDCA_Assignment_Q3.4\\ITDCA_Assignment_Q3.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k254l\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
