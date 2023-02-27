@@ -1,0 +1,13 @@
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.exe
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.deps.json
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.runtimeconfig.json
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.runtimeconfig.dev.json
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.dll
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.pdb
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.csprojAssemblyReference.cache
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.AssemblyInfoInputs.cache
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.AssemblyInfo.cs
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.dll
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.pdb
+C:\Users\k254l\source\repos\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.genruntimeconfig.cache

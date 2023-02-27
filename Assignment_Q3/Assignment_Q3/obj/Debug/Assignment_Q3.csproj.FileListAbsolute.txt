@@ -1,0 +1,7 @@
+C:\Users\k254l\source\repos\Assignment_Q3\Assignment_Q3\bin\Debug\Assignment_Q3.exe.config
+C:\Users\k254l\source\repos\Assignment_Q3\Assignment_Q3\bin\Debug\Assignment_Q3.exe
+C:\Users\k254l\source\repos\Assignment_Q3\Assignment_Q3\bin\Debug\Assignment_Q3.pdb
+C:\Users\k254l\source\repos\Assignment_Q3\Assignment_Q3\obj\Debug\Assignment_Q3.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\Assignment_Q3\Assignment_Q3\obj\Debug\Assignment_Q3.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\Assignment_Q3\Assignment_Q3\obj\Debug\Assignment_Q3.exe
+C:\Users\k254l\source\repos\Assignment_Q3\Assignment_Q3\obj\Debug\Assignment_Q3.pdb

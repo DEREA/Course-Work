@@ -1,0 +1,7 @@
+C:\Users\k254l\source\repos\BinaryTreeTesting\BinaryTreeTesting\bin\Debug\BinaryTreeTesting.exe.config
+C:\Users\k254l\source\repos\BinaryTreeTesting\BinaryTreeTesting\bin\Debug\BinaryTreeTesting.exe
+C:\Users\k254l\source\repos\BinaryTreeTesting\BinaryTreeTesting\bin\Debug\BinaryTreeTesting.pdb
+C:\Users\k254l\source\repos\BinaryTreeTesting\BinaryTreeTesting\obj\Debug\BinaryTreeTesting.csproj.AssemblyReference.cache
+C:\Users\k254l\source\repos\BinaryTreeTesting\BinaryTreeTesting\obj\Debug\BinaryTreeTesting.csproj.CoreCompileInputs.cache
+C:\Users\k254l\source\repos\BinaryTreeTesting\BinaryTreeTesting\obj\Debug\BinaryTreeTesting.exe
+C:\Users\k254l\source\repos\BinaryTreeTesting\BinaryTreeTesting\obj\Debug\BinaryTreeTesting.pdb
